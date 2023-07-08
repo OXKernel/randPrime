@@ -2,7 +2,7 @@
 Perl code to generate a random prime number
 
 # Usage
-## run ./prun.sh
+## ./prun.sh
 
 This will create multiple instances of randPrime\_thread.pl
 which will search for a random prime starting with a random
