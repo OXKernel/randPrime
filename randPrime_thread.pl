@@ -140,7 +140,7 @@ if(! defined $done) {
     print("error\n");
 }
 print("done=={$done}\n");
-while(int($done) == 0 and int($exit_count!=$NR_THREADS)) {
+while(int($done) == 0 and int($exit_count) !=$NR_THREADS) {
     # Wait
     sleep($WAIT_INTERVAL);
     print("waiting\n");
