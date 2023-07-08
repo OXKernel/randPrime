@@ -1,7 +1,7 @@
 # randPrime
 Perl code to generate a random prime number
 
-# HowTO
+# Usage
 ## run ./prun.sh
 
 This will create multiple instances of randPrime\_thread.pl
