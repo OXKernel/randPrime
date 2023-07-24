@@ -1,4 +1,7 @@
 # REFERENCES
+# Copyright (C) 2023. Roger Doss. All Rights Reserved.
+# Provided under MIT License.
+#
 # [1] https://perldoc.perl.org/threads::shared
 use warnings;
 use strict;
