@@ -34,3 +34,8 @@ which may be constrained with the size of the initial buffer. The results
 are random probable primes of user configurable size. The size of the primes
 is based on the number of bits needed to represent the starting random number
 from which the search proceeds.
+
+# Author
+Roger Doss
+
+opensource [at] rdoss [dot] com
